@@ -5,9 +5,9 @@
 
 <br>Atualmente estou me dedicando a **programação web** é a área na qual pretendo seguir.<br>Tenho conhecimento nas linguagens de programação como: **C#, HTML, CSS, MySQL e Python.** 
 
-
 <div>
-<img height:"180em" src="https://github-readme-stats.vercel.app/api?username=grazyalmeyda&theme=buefy&show_icons=true"/>
+<img height="140em"src="https://github-readme-stats.vercel.app/api?username=grazyalmeyda&theme=buefy&show_icons=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazyalmeyda&hide_progress=false&theme=buefy"/>
 </div>
   
  ## Habilidades
